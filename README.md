@@ -11,13 +11,13 @@ A collection of math problems and overviews for understanding ML models and algo
 # Summary
 
 This repository was made to help any ML enthusiasts understand the basic concepts of data science and computing in general through mathematical modelling and syntax.
-The content is divided by courses and every course compreends a list of topics displayed below.
+The content is divided by courses and every course comprehends a list of topics displayed below.
 
 This is a work in progress and will take some time before all the fields and every topic is completely reviewed. You are welcomed to use the useful links that are provided in the [Resources](#resources) tab to learn more about each topic.
 
 **Topics**:
 
-![](https://github.com/isaiapedro/math-study/blob/main/topics.png?raw=true)
+![](https://github.com/isaiapedro/math-study/blob/main/TOPICS.png?raw=true)
 
 # How it Works
 
@@ -61,13 +61,13 @@ Calculus is the study of change (differential calculus) and accumulation of quan
 
 Books | Authors | Edition
 :-- | :--: | :--:
-[Calculus, Early Transcendentals](https://patemath.weebly.com/uploads/5/2/5/8/52589185/james-stewart-calculus-early-transcendentals-7th-edition-2012-1-20ng7to-1ck11on.pdf) |  James Stewart | 7th
+[Calculus: Early Transcendentals](https://patemath.weebly.com/uploads/5/2/5/8/52589185/james-stewart-calculus-early-transcendentals-7th-edition-2012-1-20ng7to-1ck11on.pdf) |  James Stewart | 7th
 
 Courses | Website | Effort | Duration
 :-- | :--: | :--: | :--:
-[Calculus 1 (Full Lenght Videos)](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) | Professor Leonard Youtube Channel | 9 hours/week | 5 weeks
-[Calculus 2 (Full Lenght Videos)](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) | Professor Leonard Youtube Channel | 10 hours/week | 5 weeks
-[Calculus 3 (Full Lenght Videos)](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) | Professor Leonard Youtube Channel | 10 hours/week | 7 weeks
+[Calculus 1 (Full Length Videos)](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) | Professor Leonard Youtube Channel | 9 hours/week | 5 weeks
+[Calculus 2 (Full Length Videos)](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) | Professor Leonard Youtube Channel | 10 hours/week | 5 weeks
+[Calculus 3 (Full Length Videos)](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) | Professor Leonard Youtube Channel | 10 hours/week | 7 weeks
 [Algebra and Differential Calculus for Data Science](https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science#syllabus) | Coursera | 8 hours/week | 1 week
 [Calculus](https://www.khanacademy.org/math/calculus-home) | Khan Academy | nd | nd
 
