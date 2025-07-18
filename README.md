@@ -31,6 +31,8 @@ This is a work in progress and will take some time before all the fields and eve
 
 # Resources
 
+Below I listed some resources that may be helpful for you.
+
 ### Linear Algebra
 Linear algebra combines multivariate calculus, differential equations, and probability into a widely applicable mathematical theory and system that undergirds many technologies in our lives.
 
@@ -87,8 +89,8 @@ Courses | Website | Effort | Duration
 
 ### Conclusion
 
-Thanks for reading until here. I hope that this repo becomes a comprehensive space for Mathematics in Computer Science and you can learn from it and use it as you wish.
+Thanks for reading up until here. I hope that this repo becomes a comprehensive space for Mathematics in Computer Science and you can learn from it and use it as you wish.
 
-Any issues can be addresses in the [GitHub issues page](https://github.com/isaiapedro/math-study/issues) and hopefully I can help you soon enough. Feel free to reach me in [LinkedIn](https://www.linkedin.com/in/isaiapedro/). or [Webpage](https://github.com/isaiapedro/Portfolio-Website) for more questions.
+Any issues can be addressed on the [GitHub issues page](https://github.com/isaiapedro/math-study/issues) and hopefully I can help you soon enough. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/isaiapedro/) or my [Webpage](https://github.com/isaiapedro/Portfolio-Website) for more questions.
 
 Bye!
