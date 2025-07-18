@@ -6,15 +6,14 @@ A collection of math problems and overviews for understanding ML models and algo
 - [Summary](#summary)
 - [How it Works](#how-it-works)
 - [Resources](#resources)
-- [Curriculum](#curriculum)
-- [License](#license)
+- [Conclusion](#conclusion)
 
 # Summary
 
 This repository was made to help any ML enthusiasts understand the basic concepts of data science and computing in general through mathematical modelling and syntax.
 The content is divided by courses and every course compreends a list of topics displayed below.
 
-This is a work in progress and will take some time before all the fields and every topic is completely reviewed. You are welcomed to use the useful links that are provided in the Resources tab to learn more about each topic.
+This is a work in progress and will take some time before all the fields and every topic is completely reviewed. You are welcomed to use the useful links that are provided in the [Resources](#resources) tab to learn more about each topic.
 
 **Topics**:
 
@@ -23,51 +22,33 @@ This is a work in progress and will take some time before all the fields and eve
 # How it Works
 
 - Every course is divided by branch. You can visit the corresponding course using the default dropdown menu or by clicking the link below:
-  - [Linear Algebra](https://github.com/isaiapedro/math-study/tree/linear-algebra/read.me)
-  - [ODEs and Series](https://github.com/isaiapedro/math-study/tree/odes-and-series/read.me)
-  - [Calculus](https://github.com/isaiapedro/math-study/tree/calculus/read.me)
-- You can also interact through [GitHub issues](https://github.com/ossu/math/issues). If there is a problem with a course or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
-- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
+  - [Linear Algebra](https://github.com/isaiapedro/math-study/tree/linear-algebra)
+  - [ODEs and Series](https://github.com/isaiapedro/math-study/tree/odes-and-series)
+  - [Calculus](https://github.com/isaiapedro/math-study/tree/calculus)
+- In each branch you'll find exercises, topic discussions, examples and more.
+- You can also suggest new changes on [GitHub issues](https://github.com/isaiapedro/math-study/issues) or by creating a pull request with your suggested changes.
+- This is not a complete course on Math, but it can serve as a roadmap and a workbook for general ideas and examples for each concept that is useful when approaching Mathematics as a ML/Data Science student.
 
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+# Resources
 
-# Curriculum
-
-The curriculum is separated into two parts:
-
-- [Core Mathematics](#core-mathematics)
-  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
-  - [Calculus](#calculus)
-  - [Introduction to Differential Equations](#introduction-to-differential-equations)
-  - [Discrete Mathematics](#discrete-mathematics)
-  - [Linear Algebra](#linear-algebra)
-  - [Probability & Statistics](#probability--statistics)
-  - [Introduction to Analysis](#introduction-to-analysis)
-  - [Introduction to Abstract Algebra](#introduction-to-abstract-algebra)
-- [Advanced Topics](#advanced-topics)
-  - [Differential Equations](#differential-equations)
-  - [Mathematical Logic](#mathematical-logic)
-  - [Geometry and Topology](#geometry-and-topology)
-  - [Probability and Statistics](#probability-and-statistics)
-  - [Mathematical Analysis](#mathematical-analysis)
-  - [Abstract Algebra](#abstract-algebra)
-  
-## Core Mathematics
-
-All classes under Core Mathematics are **required**, unless stated otherwise.
-
-### Introduction to Mathematical Thinking
-Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But mathematicians see math as an elegant way to explain the world around us. This class covers how to think like a mathematician and solve problems. 
+### Linear Algebra
+Linear algebra combines multivariate calculus, differential equations, and probability into a widely applicable mathematical theory and system that undergirds many technologies in our lives.
 
 **Topics covered:**
-`Mathematical mindset`
-`Number Theory`
+`Vector and matrix calculations`
+`Linear transformations`
+`Vector spaces`
 
-Courses | Duration | Effort | Prerequisites
+Books | Authors | Edition
+:-- | :--: | :--:
+[Elementary Linear Algebra](https://archive.org/details/ElementryLinearAlgebraByHowardAnton10thEdition) |  Howard Anton | 10th
+
+Courses | Website | Effort | Duration
 :-- | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
-[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
+[MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) | MiT | 7 hours/week | 4 weeks
+[MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?app=desktop&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | MiT | 7 hours/week | 4 weeks
+[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning#courses) | Coursera | 10 hours/week | 4 weeks
+[Linear algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | nd | nd
 
 ### Calculus 
 Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
@@ -75,14 +56,18 @@ Calculus is the study of change (differential calculus) and accumulation of quan
 **Topics Covered:**
 `Derivatives`
 `Integrals`
-`Infinity`
 
-Courses | Duration | Effort | Prerequisites
+Books | Authors | Edition
+:-- | :--: | :--:
+[Calculus, Early Transcendentals](https://patemath.weebly.com/uploads/5/2/5/8/52589185/james-stewart-calculus-early-transcendentals-7th-edition-2012-1-20ng7to-1ck11on.pdf) |  James Stewart | 7th
+
+Courses | Website | Effort | Duration
 :-- | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
-[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | Calculus 1A 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | Calculus 1B
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) | 12 weeks | 6 hours/week | Calculus 1C 
+[Calculus 1 (Full Lenght Videos)](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) | Professor Leonard Youtube Channel | 9 hours/week | 5 weeks
+[Calculus 2 (Full Lenght Videos)](https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-) | Professor Leonard Youtube Channel | 10 hours/week | 5 weeks
+[Calculus 3 (Full Lenght Videos)](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7) | Professor Leonard Youtube Channel | 10 hours/week | 7 weeks
+[Algebra and Differential Calculus for Data Science](https://www.coursera.org/learn/algebra-and-differential-calculus-for-data-science#syllabus) | Coursera | 8 hours/week | 1 week
+[Calculus](https://www.khanacademy.org/math/calculus-home) | Khan Academy | nd | nd
 
 ### Introduction to Differential Equations
 Differential equations describe the science of change: the route by which natural and man-made systems move from one state to another. Epidemics, population growth, and weather patterns are all modeled using differential equations. It provides us a mathematical language to describe physical, chemical, and biological systems and their evolution.
@@ -90,129 +75,20 @@ Differential equations describe the science of change: the route by which natura
 **Topics covered:**
 `First-order ODEs`
 `Second-order ODEs`
-`Higher-order ODEs`
-`Laplace Transforms`
 
-Courses | Duration | Effort | Prerequisites
+Books | Authors | Edition
+:-- | :--: | :--:
+[A First Course In Differential Equations](https://archive.org/details/a-first-course-in-differential-equations-with-modeling-applications-tenth-edition.-zill-dennis-g) |  Dennis G. Zill | 10th
+
+Courses | Website | Effort | Duration
 :-- | :--: | :--: | :--:
-[Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | 14 weeks | 12 hours/week | Calculus 1C
+[Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_) | Professor Leonard Youtube Channel | 11 hours/week | 2 weeks
+[Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | nd | nd
 
-### Discrete Mathematics
-Discrete mathematics is the mathematics of objects and ideas. It includes topics such as combinatorics, graph theory, and logic. The topics discussed here also form the basis of the field of computer science. For mathematics majors, a discrete math course is usually also a first introduction to formal proofs. 
+### Conclusion
 
-**Topics covered:**
-`Counting`
-`Grouping`
-`Classifying`
-`Logic and Reasoning`
+Thanks for reading until here. I hope that this repo becomes a comprehensive space for Mathematics in Computer Science and you can learn from it and use it as you wish.
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | 14 weeks | 6-8 hours/week | Calculus 1C
+Any issues can be addresses in the [GitHub issues page](https://github.com/isaiapedro/math-study/issues) and hopefully I can help you soon enough. Feel free to reach me in [LinkedIn](https://www.linkedin.com/in/isaiapedro/). or [Webpage](https://github.com/isaiapedro/Portfolio-Website) for more questions.
 
-### Linear Algebra
-Linear algebra is the mathematics of spatial relationships that deals with the manipulation of vectors and matrices. It provides an elegant way to consider many simultaneous equations, visualize arbitrarily-many dimensions, and explain complex phenomena in simple terms.
-
-**Topics covered:**
-`Vector and matrix calculations`
-`Linear transformations`
-`Vector spaces`
-`Eigenvalues and Eigenvectors`
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites)
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra
-
-### Probability & Statistics
-Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
-
-**Topics covered:**
-`Random variables`
-`Expectation and Variance`
-`Probability Distributions`
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra
-[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability
-
-### Introduction to Analysis
-Analysis is the mathematics of sequences and limits. Intro to Analysis is a course that builds on the concepts of Calculus and provides a rigorous and formalized study of the foundations of Calculus. This course will use formal proofs to establish mathematical results, starting by proving the existence of real numbers and building the foundation of single-variable Calculus from scratch.
-
-**Topics covered:**
-`Proofs`
-`Real analysis`
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | 14 weeks | 8-10 hours/week | Multivariable Calculus
-[Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus
-
-### Introduction to Abstract Algebra
-Abstract algebra (occasionally called modern algebra) is the study of algebraic structures. Algebraic structures include groups, rings, fields, modules, vector spaces, lattices, and algebras. Abstract algebra was coined in the early 20th century to distinguish this area of study from older parts of algebra, more specifically from elementary algebra, using variables to represent numbers in computation and reasoning.
-
-**Topics covered:**
-`Group Theory`
-`Rings and fields`
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Abstract Group theory](https://nptel.ac.in/courses/111106113) | 8 weeks | 8-10 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) 
-[Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory
-
-
-## Advanced Topics
-
-Upon finishing **all the core mathematics courses**, students can choose to take elective courses in advanced topics of their choice. It is not necessary to take *every* course within a subcategory, but it is recommended to take courses relevant to the intended field of study.
-
-To complete your study of Advanced Topics, meet both the Breadth and Depth requirements.
-
-- **Breadth Requirement:** For each of the 6 Advanced Topics below, select one course to take as an elective.
-- **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic.
-
-### Mathematical Logic
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 15 weeks | 9 hours/week | -
-
-### Geometry and Topology
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Topology Without Tears](https://www.topologywithouttears.net) | 15 weeks | 14 hours/week | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites), Set Theory, Knowledge of axiomatic branch of mathematics such as [Introduction to Abstract Algebra](#introduction-to-abstract-algebra) 
-[Euclidean plane and its relatives](https://arxiv.org/pdf/1302.1630v19.pdf) | 14 weeks | 4-6 hours/week | Elementary Set Theory, Calculus 1C, Linear Algebra
-[Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) | 14 weeks | 14 hours/week | Multivariable Calculus
-[Differential Geometry](https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/) [(Supplementary Video Lectures)](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP)  | 10 weeks | 6-8 hours/week | Multivariable Calculus, Introduction To Analysis and Linear Algebra
-
-### Probability and Statistics
-Combinatorics, probability, statistics, game theory, applied stats
-
-### Mathematical Analysis
-Real analysis, numerical analysis, complex analysis, optimization theory
-
-### Abstract Algebra
-Abstract algebra, category theory, algebraic geometry and topology
-
-
-## Congratulations
-
-After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Mathematics. Congratulations!
-
-What is next for you? The possibilities are boundless and overlapping:
-
-- Look for a job. Mathematicians go into careers as statisticians, financial analysts, actuaries, and more!
-- Join a local math club (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging ideas in mathematics by subscribing to a math journal or joining a professional math organization.
-
-## How to show your progress
-
-1. Create an account in [Trello](https://trello.com/).
-1. Copy [this board](https://trello.com/b/zIlcyFSH/ossu-math) to your personal account.
-See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
-
-Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
-
-# License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+Bye!
